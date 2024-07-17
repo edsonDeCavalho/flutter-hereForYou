@@ -4,7 +4,7 @@ Here for You is a powerful mobile application designed to assist survivors of do
 
 <br>
 
-![alt text](./img/1.png)![alt text](./img/3.png)![alt text](./img/5.png)![alt text](./img/7.png)![alt text](./img/2.png)![alt text](./img/4.png)![alt text](./img/6.png)!<br>
+![alt text](./img/1.png)![alt text](./img/3.png)![alt text](./img/5.png)![alt text](./img/7.png)![alt text](./img/2.png)![alt text](./img/4.png)![alt text](./img/6.png)<br>
 <br></br>
 
 ## Getting Started
