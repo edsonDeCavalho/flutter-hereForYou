@@ -2,20 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<br></br>
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](./img/1.png)![alt text](./img/2.png)![alt text](./img/3.png)![alt text](./img/4.png)![alt text](./img/5.png)![alt text](./img/6.png)![alt text](./img/7.png)![alt text](./img/8.png)!<br>
+<br></br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-#Carousel ajouter :
-
-'flutter pub add carousel_slider'
+This application is released under GNU GPLv3 (see [LICENSE](LICENSE)).
+Some of the used libraries are released under different licenses.
 
